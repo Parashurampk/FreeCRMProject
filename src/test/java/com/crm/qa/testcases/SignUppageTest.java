@@ -13,7 +13,7 @@ import com.crm.qa.pages.LoginPage;
 import com.crm.qa.pages.SignUpPage;
 
 /**
- * @author Parashuram
+ * @author Parashuram walikindi
  *
  */
 public class SignUppageTest extends TestBase {
