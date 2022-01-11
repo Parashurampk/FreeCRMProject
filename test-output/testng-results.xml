@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-11T11:55:59Z" name="Default suite" finished-at="2022-01-11T11:56:37Z" duration-ms="38156">
+    <groups>
+    </groups>
+    <test started-at="2022-01-11T11:55:59Z" name="Default test" finished-at="2022-01-11T11:56:37Z" duration-ms="38156">
+      <class name="com.crm.qa.testcases.SignUppageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.crm.qa.testcases.SignUppageTest@30af5b6b]" started-at="2022-01-11T17:25:59Z" name="SetUp" finished-at="2022-01-11T17:26:17Z" duration-ms="18097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifySignUppageTitlle()[pri:1, instance:com.crm.qa.testcases.SignUppageTest@30af5b6b]" started-at="2022-01-11T17:26:17Z" name="verifySignUppageTitlle" finished-at="2022-01-11T17:26:17Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUppageTitlle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.SignUppageTest@30af5b6b]" started-at="2022-01-11T17:26:17Z" name="tearDown" finished-at="2022-01-11T17:26:17Z" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.crm.qa.testcases.SignUppageTest@30af5b6b]" started-at="2022-01-11T17:26:17Z" name="SetUp" finished-at="2022-01-11T17:26:34Z" duration-ms="16490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="clickOnSignupButtonTest()[pri:2, instance:com.crm.qa.testcases.SignUppageTest@30af5b6b]" started-at="2022-01-11T17:26:34Z" name="clickOnSignupButtonTest" finished-at="2022-01-11T17:26:36Z" duration-ms="2391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSignupButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.SignUppageTest@30af5b6b]" started-at="2022-01-11T17:26:36Z" name="tearDown" finished-at="2022-01-11T17:26:37Z" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.SignUppageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
